@@ -1,0 +1,5 @@
+ 		Jan 	Feb 	Mar 	Apr 	May 	Jun 	Jul 	Aug 	Sep 	Oct 	Nov 	Dec 		Annual
+sunshine icon	Average Sunlight Hours/ Day 	07:42 	08:14 	08:40 	09:26 	08:54 	08:30 	08:42 	08:25 	07:04 	06:27 	07:28 	07:07 	  	08:03
+daylight icon	Average Daylight Hours & Minutes/ Day 	10:42 	11:14 	11:57 	12:44 	13:22 	13:42 	13:33 	13:00 	12:15 	11:29 	10:51 	10:32 	  	12:00
+sunny or cloudy icon	Sunny & (Cloudy) Daylight Hours (%) 	73 (27) 	74 (26) 	73 (27) 	75 (25) 	67 (33) 	63 (37) 	65 (35) 	65 (35) 	58 (42) 	57 (43) 	70 (30) 	68 (32) 	  	67 (33)
+sun altitude icon	Sun altitude at solar noon on the 21st day (°). 	44.4 	53.7 	64.6 	76.3 	84.5 	87.6 	84.4 	76.2 	64.7 	53.2 	44.1 	40.8 	  	64.6
