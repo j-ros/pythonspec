@@ -1,6 +1,6 @@
 # README
 
-Repository for exercises in the Applied Data Science with Python Specialization on Coursera:
+Repository for exercises in the [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) on Coursera:
 
 1. [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
 2. [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
