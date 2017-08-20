@@ -27,6 +27,13 @@ Work from the [Applied Data Science with Python Specialization](https://www.cour
 - Model evaluation and selection (cross-validation, confusion matrices, ROC curves)
 - Ensembles of trees (random forests, gradient boosted trees) and neural networks (including deep learning)
 
+### Course 4: Applied Text Mining in Python
+
+- Text handling and regular expressions
+- Natural Language Processing with NLTK
+- Text classification: Naive Bayes and SVM
+- Semantic text similarity, topic modeling, generative models and LDA, information extraction
+
 
 
 
