@@ -34,6 +34,17 @@ Work from the [Applied Data Science with Python Specialization](https://www.cour
 - Text classification: Naive Bayes and SVM
 - Semantic text similarity, topic modeling, generative models and LDA, information extraction
 
+### Course 5: Applied Social Network Analysis in Python
+
+- NetworkX library for Network Analysis
+- Network connectivity: clustering coefficient, distance measures, connected components, network robustness 
+- Network visualizations using NetworkX
+- Influence measures and network centralization: degree and closeness centrality, betweenness centrality, basic and scaled Page Rank, hubs and authorities
+- Network evolution: preferential attachment model, small world networks, link prediction 
+- Graph feature extraction 
+- Power laws and Rich-Get-Richer Phenomena
+- The Small-World Phenomenon
+
 
 
 
