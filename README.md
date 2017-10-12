@@ -42,8 +42,6 @@ Work from the [Applied Data Science with Python Specialization](https://www.cour
 - Influence measures and network centralization: degree and closeness centrality, betweenness centrality, basic and scaled Page Rank, hubs and authorities
 - Network evolution: preferential attachment model, small world networks, link prediction 
 - Graph feature extraction 
-- Power laws and Rich-Get-Richer Phenomena
-- The Small-World Phenomenon
 
 
 
